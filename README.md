@@ -1,23 +1,42 @@
-# iki1uc – ROOT
+# OUT – Output‑Modul (iki1uc System)
+
+**OUT** ist ein Mini‑Portal innerhalb des iki1uc‑Systems.  
+Es dient als leichter Knotenpunkt für Output‑Linien, Status‑Scans und Zeitmodule.
+
+---
+
+## Module
+
+- **index.html** – Portal + Status‑Scan  
+- **ID.html** – Identitätsmodul  
+- **time_3x11_scroll_zoom.html** – Zeitmodul (3×11)
+
+---
+
+## Eigenschaften
+
+OUT ist kompatibel mit:
+
+- MA³  
+- TriAxiom  
+- ART.link  
+- RAW‑SYS‑IKI‑AXI‑ATOR  
+- RESPO‑Rotation  
+- Scan‑Ghost  
+- NC‑Linien
+
+OUT ist ein leichtes, unabhängiges Modul und kann als Baustein für größere iki1uc‑Systeme verwendet werden.
+
+---
 
 ## Zweck
-Dieses Repository bildet den Ursprung der gesamten Struktur.  
-Es stellt die öffentliche Identität des Systems bereit und dient  
-als Einstiegspunkt für alle Module, Achsen und Bereiche.
 
-## Identität
-- CORE: iki1uc  
-- VERSION: 1.0  
-- CODE: RAW  
-- LAGE: ROOT / Creator / NC  
-- STATUS: Online  
+OUT dient als:
 
-## Inhalt
-- index.html – öffentliche Landing‑Page  
-- ID.html – Identitätsdarstellung  
-- visual/ – Visualisierungen  
-- modules/ – Verlinkte System‑Repos  
+- Output‑Interaktionspunkt  
+- Mini‑Status‑Scanner  
+- Identitätsmodul  
+- Zeit‑Modul‑Host  
+- Verbindungsknoten für leichte Interaktionslinien
 
-## Hinweis
-Dieses Repository enthält keine Engine‑Mechanismen.  
-Es dient ausschließlich der öffentlichen Darstellung und Struktur.
+Damit ist OUT ein universelles Mini‑Modul im iki1uc‑Universum.
